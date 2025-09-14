@@ -65,6 +65,3 @@ streamlit run app.py #run the streamlit app
 - TMDB API: [https://www.themoviedb.org/documentation/api](https://www.themoviedb.org/documentation/api)
 - scikit-learn Cosine Similarity: [https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.cosine_similarity.html](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.cosine_similarity.html)
 - Streamlit Docs: [https://docs.streamlit.io/](https://docs.)
-
-## 🗂 Project Structure
-
