@@ -42,33 +42,29 @@ streamlit run app.py #run the streamlit app
 
 ---
 
-🏞 Screenshot
+## 🏞 Screenshot
 
 <img width="1912" height="867" alt="image" src="https://github.com/user-attachments/assets/c827bc7a-8c67-4e82-8d21-6ca56b96413e" />
 
-📁 Notes
+## 📁 Notes
 
-movie_data.pkl is a large file (~178 MB). It is tracked using Git LFS. Make sure Git LFS is installed when cloning the repo.
+- `movie_data.pkl` is a **large file (~178 MB)**. It is tracked using **Git LFS**. Make sure Git LFS is installed when cloning the repo.
+- Once posters are downloaded via `prepare_data.py`, the system works **fully offline**.
 
-Optional improvements:
+### Optional Improvements
 
-Hybrid recommendation (content + collaborative filtering)
+- Hybrid recommendation (content + collaborative filtering)
+- Search bar with autocomplete
+- Genre or year filters
+- Ratings display
 
-Search bar with autocomplete
+---
 
-Genre or year filters
+## 📜 References
 
-Ratings display
-
-📜 References
-
-TMDB API: https://www.themoviedb.org/documentation/api
-
-scikit-learn Cosine Similarity: https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.cosine_similarity.html
-
-Streamlit Docs: https://docs.streamlit.io/
-
-This project is open-source and available under the MIT License.
+- TMDB API: [https://www.themoviedb.org/documentation/api](https://www.themoviedb.org/documentation/api)
+- scikit-learn Cosine Similarity: [https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.cosine_similarity.html](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.cosine_similarity.html)
+- Streamlit Docs: [https://docs.streamlit.io/](https://docs.)
 
 ## 🗂 Project Structure
 
