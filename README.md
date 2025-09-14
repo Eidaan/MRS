@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.30-orange)](https://streamlit.io/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 A **content-based movie recommendation system** built with **Python, Streamlit, and machine learning**.  
 Get personalized movie suggestions along with posters. Fully offline-ready once posters are cached locally.
