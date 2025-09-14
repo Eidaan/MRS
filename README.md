@@ -54,7 +54,6 @@ Check out the live app here: [Movie Recommender](https://movie-recommender-e.str
 ## 📁 Notes
 
 - `movie_data.pkl` is a **large file (~178 MB)**. It is tracked using **Git LFS**. Make sure Git LFS is installed when cloning the repo.
-- Once posters are downloaded via `prepare_data.py`, the system works **fully offline**.
 
 ### Optional Improvements
 
