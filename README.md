@@ -16,7 +16,7 @@ Get personalized movie suggestions along with posters. Fully offline-ready once 
 - Fully **offline-ready** with pre-downloaded poster images.
 - Easy-to-use **Streamlit interface** with a responsive 2x5 grid layout.
 - Content-based recommendation using **cosine similarity** on movie **tags** (`overview + genres`).
-- Compatible with **local datasets** and can handle large movie collections.
+- Compatible with **local datasets** and can handle large movie collections upto 5000.
 
 ---
 
@@ -32,19 +32,24 @@ Get personalized movie suggestions along with posters. Fully offline-ready once 
 
 ---
 
-## ⚡ Setup Instructions
-
-1. **Clone the repo**
-git clone https://github.com/Eidaan/MRS.git
-cd MRS
-pip install -r requirements.txt
-streamlit run app.py #run the streamlit app
+## 🚀 How to Run
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/Eidaan/MRS.git
+   cd MRS
 
 ---
 
 ## 🏞 Screenshot
 
 <img width="1912" height="867" alt="image" src="https://github.com/user-attachments/assets/c827bc7a-8c67-4e82-8d21-6ca56b96413e" />
+
+---
+
+## Live Demo
+Check out the live app here: [Movie Recommender](https://movie-recommender-e.streamlit.app/)
+
+---
 
 ## 📁 Notes
 
